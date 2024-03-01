@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Airbnb-project/static/css/main.f62f60c0.css",
-    "main.js": "/Airbnb-project/static/js/main.83c96609.js",
+    "main.css": "/Airbnb-project/static/css/main.4815d4e4.css",
+    "main.js": "/Airbnb-project/static/js/main.2e6b841c.js",
     "static/js/453.0a36081d.chunk.js": "/Airbnb-project/static/js/453.0a36081d.chunk.js",
     "static/media/Airbnb_Logo_Bélo.svg.png": "/Airbnb-project/static/media/Airbnb_Logo_Bélo.svg.1fd4da7c1e9264fa6bb8.png",
     "index.html": "/Airbnb-project/index.html",
-    "main.f62f60c0.css.map": "/Airbnb-project/static/css/main.f62f60c0.css.map",
-    "main.83c96609.js.map": "/Airbnb-project/static/js/main.83c96609.js.map",
+    "main.4815d4e4.css.map": "/Airbnb-project/static/css/main.4815d4e4.css.map",
+    "main.2e6b841c.js.map": "/Airbnb-project/static/js/main.2e6b841c.js.map",
     "453.0a36081d.chunk.js.map": "/Airbnb-project/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f62f60c0.css",
-    "static/js/main.83c96609.js"
+    "static/css/main.4815d4e4.css",
+    "static/js/main.2e6b841c.js"
   ]
 }
