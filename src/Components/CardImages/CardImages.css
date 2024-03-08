@@ -1,0 +1,16 @@
+@media (max-width: 800px) {
+      .card-image{
+        position: relative;
+        top: 10px;
+        
+      }
+      
+}
+@media (max-width: 1024px) {
+  .cflex{
+    width: 100% !important;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+}

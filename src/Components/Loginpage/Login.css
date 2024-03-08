@@ -1,0 +1,12 @@
+.date{
+    border:1px solid rgba(20, 20, 20, 0.459);
+    border-radius: 10px;
+}
+.phone-number{
+    width: 400px;
+}
+.topborder{
+    border-top:1px solid rgba(20, 20, 20, 0.459);
+     margin-top: 10px;
+     margin-bottom: 10px;
+}

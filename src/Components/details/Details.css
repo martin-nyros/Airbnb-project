@@ -1,0 +1,113 @@
+.img-placing1{
+   position: absolute;
+   left: 690px;
+   width: 280px;
+   height: 160px;
+}
+.img-placing2{
+   position: absolute;
+   right: 90px;
+   width: 280px;
+   height: 160px;
+   border-top-right-radius: 20px;
+}
+.img-placing3{
+    position: absolute;
+    top: 414px;
+    right: 90px;
+    width: 280px;
+    height: 160px;
+    border-bottom-right-radius: 20px;
+}
+.img-placing4{
+    position: absolute;
+    top: 414px;
+    left: 690px;
+    width: 280px;
+    height: 160px;
+}
+.rectangle-body{
+    border: 1px solid rgb(194, 194, 194);
+    height: 90px;
+    width: auto;
+    border-radius: 14px;
+    box-shadow:1px 0px 10px rgba(58, 58, 58, 0.164) ;
+}
+.rectangle-text{
+    position: relative;
+    top: 20px;
+}
+.date-border{
+    border:1px solid rgba(20, 20, 20, 0.459);
+    border-radius: 10px;
+}
+.carder{
+    border: 1px solid rgba(17, 17, 17, 0.253);
+    box-shadow: 1px 1px 20px rgb(224, 223, 223);
+    padding: 20px;
+    border-radius: 20px;
+}
+.side-border{
+    border-right:1px solid rgba(20, 20, 20, 0.459);
+}
+.top-border{
+    border-top:1px solid rgba(20, 20, 20, 0.459);
+     padding-bottom: 8px;
+}
+.style{
+    color: #d1cfcf;
+    font-size: 12px;
+}
+.button{
+    width: 500px;
+    height: 50px;
+    background-color: #ff385c;
+    border: #ff385c;
+    border-radius: 10px;
+}
+.button:hover {
+    background-color: #f3264c;
+}
+
+@media (max-width: 1024px) {
+    .carder{
+        display: none;
+    }
+    .rectangle-body{
+        border: 1px solid rgb(194, 194, 194);
+        height: 90px;
+        width: 900px;
+        border-radius: 14px;
+        box-shadow:1px 0px 10px rgba(58, 58, 58, 0.164) ;
+    }
+    .img-placing1,.img-placing2,.img-placing3,.img-placing4{
+        display: none;
+    }
+    .Main-img{
+        width: 100% !important;
+        height: 500px !important;
+    }
+   
+}
+@media (max-width: 768px) {
+    .rectangle-body{
+        height: 90px;
+        width: auto;
+    }
+    .rectangle-text h6{
+         display: none;
+    }
+    .center{
+        text-align: center;
+    }
+    .card-flex{
+        justify-content: center !important;
+    }
+    .margin-card{
+        margin-top: 18px;
+    }
+    .img-placing1,.img-placing2,.img-placing3,.img-placing4{
+        display: none;
+    }
+}
+
