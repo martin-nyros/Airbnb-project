@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Project-airbnb/static/css/main.85207698.css",
-    "main.js": "/Project-airbnb/static/js/main.74dbb344.js",
-    "static/js/453.0a36081d.chunk.js": "/Project-airbnb/static/js/453.0a36081d.chunk.js",
-    "static/media/avatarimg.jpg": "/Project-airbnb/static/media/avatarimg.0ce1699786a9e5e55852.jpg",
-    "static/media/Airbnb_Logo_Bélo.svg.png": "/Project-airbnb/static/media/Airbnb_Logo_Bélo.svg.1fd4da7c1e9264fa6bb8.png",
-    "index.html": "/Project-airbnb/index.html",
-    "main.85207698.css.map": "/Project-airbnb/static/css/main.85207698.css.map",
-    "main.74dbb344.js.map": "/Project-airbnb/static/js/main.74dbb344.js.map",
-    "453.0a36081d.chunk.js.map": "/Project-airbnb/static/js/453.0a36081d.chunk.js.map"
+    "main.css": "/Airbnb-project/static/css/main.85207698.css",
+    "main.js": "/Airbnb-project/static/js/main.4f84d3d0.js",
+    "static/js/453.0a36081d.chunk.js": "/Airbnb-project/static/js/453.0a36081d.chunk.js",
+    "static/media/avatarimg.jpg": "/Airbnb-project/static/media/avatarimg.0ce1699786a9e5e55852.jpg",
+    "static/media/Airbnb_Logo_Bélo.svg.png": "/Airbnb-project/static/media/Airbnb_Logo_Bélo.svg.1fd4da7c1e9264fa6bb8.png",
+    "index.html": "/Airbnb-project/index.html",
+    "main.85207698.css.map": "/Airbnb-project/static/css/main.85207698.css.map",
+    "main.4f84d3d0.js.map": "/Airbnb-project/static/js/main.4f84d3d0.js.map",
+    "453.0a36081d.chunk.js.map": "/Airbnb-project/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85207698.css",
-    "static/js/main.74dbb344.js"
+    "static/js/main.4f84d3d0.js"
   ]
 }
